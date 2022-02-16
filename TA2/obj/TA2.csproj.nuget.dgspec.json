@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zasca/TA2/TA2.csproj": {}
+    "/Users/zasca/Documents/Github/TA2_SA/TA2/TA2.csproj": {}
   },
   "projects": {
-    "/Users/zasca/TA2/TA2.csproj": {
+    "/Users/zasca/Documents/Github/TA2_SA/TA2/TA2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zasca/TA2/TA2.csproj",
+        "projectUniqueName": "/Users/zasca/Documents/Github/TA2_SA/TA2/TA2.csproj",
         "projectName": "TA2",
-        "projectPath": "/Users/zasca/TA2/TA2.csproj",
+        "projectPath": "/Users/zasca/Documents/Github/TA2_SA/TA2/TA2.csproj",
         "packagesPath": "/Users/zasca/.nuget/packages/",
-        "outputPath": "/Users/zasca/TA2/obj/",
+        "outputPath": "/Users/zasca/Documents/Github/TA2_SA/TA2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zasca/.nuget/NuGet/NuGet.Config"
