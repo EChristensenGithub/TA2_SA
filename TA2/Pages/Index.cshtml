@@ -8,3 +8,18 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+<div>
+    <br/>
+    <h3>Data contained in the JSON file :</h3>
+    <br/>
+    <ul>
+        @foreach (var product in Model.Products)
+        {
+            <li>
+                <h4>@product.name</h4>
+                <p>Priced at @product.price and located and @product.aisle area</p>
+            </li>
+        }
+    </ul>
+</div>
